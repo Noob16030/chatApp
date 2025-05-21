@@ -1,0 +1,33 @@
+# Delphi build súbory
+*.dcu
+*.~*
+*.exe
+*.dll
+*.map
+*.bpl
+*.dcp
+*.dsk
+*.local
+*.identcache
+*.tvsconfig
+*.stat
+*.bak
+*.tmp
+
+# História
+__history/
+
+# Záložky
+*.tgs
+
+# VCL Form cache
+*.ddp
+
+# Debug a Release výstupy
+Win32/Debug/
+Win32/Release/
+x64/Debug/
+x64/Release/
+
+# Git submoduly alebo externé liby
+lib/

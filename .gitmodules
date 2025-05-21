@@ -1,0 +1,3 @@
+[submodule "lib/DCPCryptV2"]
+	path = lib/DCPCryptV2
+	url = https://github.com/Dunhamb4a/DcPCryptV2
